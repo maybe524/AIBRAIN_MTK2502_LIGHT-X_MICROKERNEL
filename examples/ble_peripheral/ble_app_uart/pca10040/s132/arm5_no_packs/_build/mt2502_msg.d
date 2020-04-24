@@ -1,0 +1,16 @@
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\driver\misc\mtk\mt2502\mt2502_msg.c
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/time.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/task.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/msg.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\mt2502_msg.o: ..\..\..\kernel0.12.1\driver\misc\mtk\mt2502\mt2502.h

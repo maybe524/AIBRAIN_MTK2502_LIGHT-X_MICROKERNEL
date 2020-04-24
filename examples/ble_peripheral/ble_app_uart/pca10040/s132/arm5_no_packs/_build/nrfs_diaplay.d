@@ -1,0 +1,14 @@
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\driver\display\nrfs_diaplay.c
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/io.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/assert.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/graphic/display.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/malloc.h
+.\_build\nrfs_diaplay.o: ..\..\..\kernel0.12.1\include/list.h

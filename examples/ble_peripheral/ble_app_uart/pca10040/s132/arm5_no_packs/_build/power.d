@@ -1,0 +1,11 @@
+.\_build\power.o: ..\..\..\kernel0.12.1\driver\power\power.c
+.\_build\power.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/time.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/platform.h
+.\_build\power.o: ..\..\..\kernel0.12.1\include/errno.h

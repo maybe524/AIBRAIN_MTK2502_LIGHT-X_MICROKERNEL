@@ -1,0 +1,10 @@
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\driver\misc\lcm\lcm_drv.c
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/lcm/lcm_drv.h
+.\_build\lcm_drv.o: ..\..\..\kernel0.12.1\include/graphic/display.h

@@ -1,0 +1,14 @@
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\shell\command\mklxtfs.c
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/unistd.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/getopt.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/shell.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\mklxtfs.o: ..\..\..\kernel0.12.1\include/list.h

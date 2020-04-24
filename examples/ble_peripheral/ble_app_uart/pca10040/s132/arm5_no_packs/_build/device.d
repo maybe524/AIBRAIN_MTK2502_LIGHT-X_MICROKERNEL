@@ -1,0 +1,9 @@
+.\_build\device.o: ..\..\..\kernel0.12.1\core\device.c
+.\_build\device.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\device.o: ..\..\..\kernel0.12.1\include/time.h

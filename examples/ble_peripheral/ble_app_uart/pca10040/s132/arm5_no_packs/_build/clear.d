@@ -1,0 +1,14 @@
+.\_build\clear.o: ..\..\..\kernel0.12.1\shell\command\clear.c
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/assert.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/unistd.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/getopt.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/shell.h
+.\_build\clear.o: ..\..\..\kernel0.12.1\include/uart/uart.h

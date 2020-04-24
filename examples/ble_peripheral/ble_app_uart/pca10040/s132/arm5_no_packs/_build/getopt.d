@@ -1,0 +1,10 @@
+.\_build\getopt.o: ..\..\..\kernel0.12.1\lib\extra\getopt.c
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/shell.h
+.\_build\getopt.o: ..\..\..\kernel0.12.1\include/errno.h

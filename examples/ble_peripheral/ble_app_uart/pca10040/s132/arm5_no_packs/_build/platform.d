@@ -1,0 +1,13 @@
+.\_build\platform.o: ..\..\..\kernel0.12.1\driver\platform\platform.c
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/platform.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\platform.o: ..\..\..\kernel0.12.1\include/time.h

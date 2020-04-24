@@ -1,0 +1,9 @@
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\core\sched\sched_common.c
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/task.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\sched_common.o: ..\..\..\kernel0.12.1\include/lock.h

@@ -1,0 +1,14 @@
+.\_build\irq.o: ..\..\..\kernel0.12.1\core\irq.c
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/io.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/irq.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/gpio.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/malloc.h
+.\_build\irq.o: ..\..\..\kernel0.12.1\include/assert.h

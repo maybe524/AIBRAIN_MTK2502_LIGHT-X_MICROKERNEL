@@ -1,0 +1,13 @@
+.\_build\genhd.o: ..\..\..\kernel0.12.1\driver\block\genhd.c
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/gendisk.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/time.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/malloc.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\genhd.o: ..\..\..\kernel0.12.1\include/init.h

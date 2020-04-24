@@ -1,0 +1,9 @@
+.\_build\msg.o: ..\..\..\kernel0.12.1\core\msg.c
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/msg.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\msg.o: ..\..\..\kernel0.12.1\include/time.h

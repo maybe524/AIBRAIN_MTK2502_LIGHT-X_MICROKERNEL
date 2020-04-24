@@ -1,0 +1,12 @@
+.\_build\board.o: ..\..\..\kernel0.12.1\core\board.c
+.\_build\board.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/board.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\board.o: ..\..\..\kernel0.12.1\include/uart/uart.h

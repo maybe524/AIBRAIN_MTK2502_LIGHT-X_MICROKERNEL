@@ -1,0 +1,11 @@
+"\
+description:\r\n\
+  print string tools.\r\n\
+usage:\r\n\
+  echo [<args>]\r\n\
+generic options:\r\n\
+  -f <file>\r\n\
+   file name\r\n\
+  -c <content>\r\n\
+   content string you want to write to file\r\n\
+"

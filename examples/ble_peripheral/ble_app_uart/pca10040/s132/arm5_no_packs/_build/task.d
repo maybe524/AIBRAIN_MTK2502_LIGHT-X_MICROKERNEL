@@ -1,0 +1,9 @@
+.\_build\task.o: ..\..\..\kernel0.12.1\core\task.c
+.\_build\task.o: ..\..\..\kernel0.12.1\include/msg.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/task.h
+.\_build\task.o: ..\..\..\kernel0.12.1\include/init.h

@@ -1,0 +1,10 @@
+.\_build\pager_time.o: ..\..\..\project\PAGER_B3710\pager_time.c
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\pager_time.o: ..\..\..\project\PAGER_B3710\./inc/pager_time.h
+.\_build\pager_time.o: ..\..\..\kernel0.12.1\include/time.h

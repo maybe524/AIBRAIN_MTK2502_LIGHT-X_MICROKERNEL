@@ -1,0 +1,17 @@
+.\_build\delay.o: ..\..\..\kernel0.12.1\core\delay.c
+.\_build\delay.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\delay.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\delay.o: ..\..\..\..\..\..\components\drivers_nrf\delay\nrf_delay.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\_build\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\system_nrf52.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52_bitfields.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf51_to_nrf52.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52_name_change.h
+.\_build\delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\compiler_abstraction.h

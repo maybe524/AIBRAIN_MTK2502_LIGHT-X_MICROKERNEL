@@ -1,0 +1,9 @@
+.\_build\stdio.o: ..\..\..\kernel0.12.1\lib\std\stdio.c
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\stdio.o: ..\..\..\kernel0.12.1\include/uart/uart.h

@@ -1,0 +1,11 @@
+"\
+description:\r\n\
+  factory mode, test all devices.\r\n\
+usage:\r\n\
+  factory <test>\r\n\
+test list:\r\n\
+  -h     heart rate.\r\n\
+generic options:\r\n\
+  -h= <on|off>\r\n\
+   open/close heart rate sensor.\r\n\
+"

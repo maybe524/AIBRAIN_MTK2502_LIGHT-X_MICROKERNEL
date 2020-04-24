@@ -1,0 +1,13 @@
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\fs\devfs\char_dev.c
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/fs.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/time.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/block.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\char_dev.o: ..\..\..\kernel0.12.1\include/malloc.h

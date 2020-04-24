@@ -1,0 +1,14 @@
+.\_build\strex.o: ..\..\..\kernel0.12.1\lib\extra\strex.c
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/errno.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/string.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/net/net.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/net/ndev.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/net/skb.h
+.\_build\strex.o: ..\..\..\kernel0.12.1\include/net/socket.h

@@ -1,0 +1,16 @@
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\driver\i2c\i2c_core.c
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/init.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/types.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/arm/types.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/list.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\lib\i2c\i2c.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/stdio.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/g-bios.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/sysconf.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/fcntl.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/device.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/pm.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/wait.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/sched.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/time.h
+.\_build\i2c_core.o: ..\..\..\kernel0.12.1\include/errno.h
